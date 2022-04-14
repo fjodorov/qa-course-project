@@ -1,0 +1,89 @@
+2022-03-22 21:40:54 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:40:54 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:40:55 [main] INFO  CasinoSteps:75 - Balance: 1059
+2022-03-22 21:40:56 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:40:57 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:40:57 [main] INFO  CasinoSteps:75 - Balance: 1079
+2022-03-22 21:40:59 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:40:59 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:40:59 [main] INFO  CasinoSteps:75 - Balance: 1099
+2022-03-22 21:41:01 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:41:01 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:41:02 [main] ERROR CasinoSteps:125 - Win amount is not displayed for win combination 22200
+2022-03-22 21:41:02 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22200, expected: 120 actual: -999
+2022-03-22 21:41:03 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:41:03 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:41:04 [main] INFO  CasinoSteps:75 - Balance: 1159
+2022-03-22 21:41:05 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:41:06 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:41:06 [main] ERROR CasinoSteps:117 - Incorrect win amount displayed for win combination 22222, expected Win 180 coins, actual Win 200 coins
+2022-03-22 21:41:06 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22222, expected: 180 actual: -999
+2022-03-22 21:44:03 [main] INFO  CasinoSteps:47 - Driver created
+2022-03-22 21:44:04 [main] INFO  CasinoSteps:75 - Balance: 1000
+2022-03-22 21:44:05 [main] INFO  CasinoSteps:75 - Balance: 1059
+2022-03-22 22:24:17 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:24:20 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:24:26 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 11100, expected: 60 actual: -999
+2022-03-22 22:24:26 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:24:26 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:24:31 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 11110, expected: 80 actual: -999
+2022-03-22 22:24:31 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:24:31 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:24:36 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 11111, expected: 100 actual: -999
+2022-03-22 22:24:36 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:24:36 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:24:40 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22200, expected: 120 actual: -999
+2022-03-22 22:24:40 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:24:40 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:24:45 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22220, expected: 160 actual: -999
+2022-03-22 22:24:45 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:24:45 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:24:49 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22222, expected: 180 actual: -999
+2022-03-22 22:33:46 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:33:50 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:33:51 [main] INFO  CasinoSteps:50 - Balance: 1059
+2022-03-22 22:33:51 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:33:51 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:33:52 [main] INFO  CasinoSteps:50 - Balance: 1079
+2022-03-22 22:33:52 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:33:52 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:33:52 [main] INFO  CasinoSteps:50 - Balance: 1099
+2022-03-22 22:33:52 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:33:52 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:33:57 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22200, expected: 120 actual: -999
+2022-03-22 22:33:57 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:33:57 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:33:57 [main] INFO  CasinoSteps:50 - Balance: 1159
+2022-03-22 22:33:57 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:33:57 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:34:02 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22222, expected: 180 actual: -999
+2022-03-22 22:40:13 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:40:17 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:40:17 [main] INFO  CasinoSteps:50 - Balance: 1059
+2022-03-22 22:40:18 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:40:18 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:40:18 [main] INFO  CasinoSteps:50 - Balance: 1079
+2022-03-22 22:40:18 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:40:19 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:40:19 [main] INFO  CasinoSteps:50 - Balance: 1099
+2022-03-22 22:40:19 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:40:19 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:40:24 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22200, expected: 120 actual: -999
+2022-03-22 22:40:24 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:40:24 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:40:24 [main] INFO  CasinoSteps:50 - Balance: 1159
+2022-03-22 22:40:24 [main] INFO  CasinoSteps:37 - Driver created
+2022-03-22 22:40:24 [main] INFO  CasinoSteps:50 - Balance: 1000
+2022-03-22 22:40:29 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22222, expected: 180 actual: -999
+2022-03-22 22:50:03 [main] INFO  CasinoSteps:47 - Balance: 1000
+2022-03-22 22:50:03 [main] INFO  CasinoSteps:47 - Balance: 1059
+2022-03-22 22:50:04 [main] INFO  CasinoSteps:47 - Balance: 1000
+2022-03-22 22:50:04 [main] INFO  CasinoSteps:47 - Balance: 1079
+2022-03-22 22:50:04 [main] INFO  CasinoSteps:47 - Balance: 1000
+2022-03-22 22:50:05 [main] INFO  CasinoSteps:47 - Balance: 1099
+2022-03-22 22:50:05 [main] INFO  CasinoSteps:47 - Balance: 1000
+2022-03-22 22:50:10 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22200, expected: 120 actual: -999
+2022-03-22 22:50:10 [main] INFO  CasinoSteps:47 - Balance: 1000
+2022-03-22 22:50:10 [main] INFO  CasinoSteps:47 - Balance: 1159
+2022-03-22 22:50:10 [main] INFO  CasinoSteps:47 - Balance: 1000
+2022-03-22 22:50:15 [main] ERROR CasinoCases:104 - Incorrect win amount for combination 22222, expected: 180 actual: -999

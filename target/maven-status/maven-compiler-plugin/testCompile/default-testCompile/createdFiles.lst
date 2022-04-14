@@ -1,0 +1,8 @@
+suites/TestTaskLocalSuite.class
+common/ChromeTest.class
+common/CasinoTest.class
+common/Tele2Test.class
+com/example/OpenBrouser.class
+common/ChromeTeliaTest.class
+common/CalculatorTest.class
+common/CasinoNewTest.class

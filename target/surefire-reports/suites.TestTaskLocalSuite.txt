@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: suites.TestTaskLocalSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 21.115 s <<< FAILURE! - in suites.TestTaskLocalSuite
+casinoTest[3](cases.CasinoCases)  Time elapsed: 4.698 s  <<< FAILURE!
+java.lang.AssertionError: 
+Element should be visible {By.id: winbox}
+Element: '<div id="winbox" displayed:false></div>'
+Actual value: hidden
+Screenshot: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.png
+Page source: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.html
+Timeout: 4 s.
+	at cases.CasinoCases.casinoTest(CasinoCases.java:96)
+
+casinoTest[5](cases.CasinoCases)  Time elapsed: 4.717 s  <<< FAILURE!
+java.lang.AssertionError: 
+Element should be text "Win 180 coins" {By.id: winbox}
+Element: '<div id="winbox">Win 200 coins</div>'
+Actual value: text="Win 200 coins"
+Screenshot: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982215246.1.png
+Page source: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982215246.1.html
+Timeout: 4 s.
+	at cases.CasinoCases.casinoTest(CasinoCases.java:96)
+

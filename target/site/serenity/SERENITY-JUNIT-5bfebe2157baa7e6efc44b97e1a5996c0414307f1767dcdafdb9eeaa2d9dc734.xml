@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="2" name="cases.CasinoCases" skipped="0" tests="6" time="17.09" timestamp="2022-03-22 10:50:15"><testcase classname="cases.CasinoCases" name="Casino test"><failure message="Element should be visible {By.id: winbox}&#10;Element: '&lt;div id=&quot;winbox&quot; displayed:false&gt;&lt;/div&gt;'&#10;Actual value: hidden&#10;Screenshot: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.png&#10;Page source: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.html&#10;Timeout: 4 s." type="java.lang.AssertionError">Element should be visible {By.id: winbox}
+Element: '&lt;div id="winbox" displayed:false&gt;&lt;/div&gt;'
+Actual value: hidden
+Screenshot: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.png
+Page source: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.html
+Timeout: 4 s.</failure><system-err>Element should be visible {By.id: winbox}
+Element: '&lt;div id="winbox" displayed:false&gt;&lt;/div&gt;'
+Actual value: hidden
+Screenshot: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.png
+Page source: file:/Users/sdasd/qa-group-vi/build/reports/tests/1647982209907.0.html
+Timeout: 4 s.
+com.codeborne.selenide.impl.WebElementSource.checkCondition(WebElementSource.java:131)
+com.codeborne.selenide.commands.Should.execute(Should.java:30)
+com.codeborne.selenide.commands.Should.execute(Should.java:14)
+com.codeborne.selenide.commands.Commands.execute(Commands.java:154)
+com.codeborne.selenide.impl.SelenideElementProxy.dispatchAndRetry(SelenideElementProxy.java:131)
+com.codeborne.selenide.impl.SelenideElementProxy.invoke(SelenideElementProxy.java:83)
+steps.CasinoSteps.winTextCheck(CasinoSteps.java:83)
+cases.CasinoCases.casinoTest(CasinoCases.java:96)
+</system-err></testcase></testsuite>
